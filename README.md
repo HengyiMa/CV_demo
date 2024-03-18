@@ -1,3 +1,2 @@
 # CV_project
-CV相关项目
-这个仓库包含所有CV方向的项目，如课程项目，练习项目
+cv related projects
