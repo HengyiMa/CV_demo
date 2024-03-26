@@ -1,2 +1,2 @@
 # CV_project
-cv related projects
+computer vision related projects
